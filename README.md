@@ -13,7 +13,7 @@ Aplikasi Node.js sederhana untuk mengakses database Microsoft Access (.mdb) meng
 1. **Clone atau download project ini**
 2. **Install dependencies:**
    ```bash
-   pnpm install node-adodb
+   pnpm install
    ```
 
 3. **Pastikan struktur folder seperti ini:**
