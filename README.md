@@ -34,28 +34,28 @@ Akan menjalankan query default: `SELECT TOP 10 * FROM DATA_GROUP`
 ### 2. Menjalankan dengan Query Custom
 
 ```bash
-pnpm start "SELECT COUNT(*) FROM DATA_GROUP"
+pnpm start "SELECT DDATE, DNAME, DTSV_1, DTSV_2, DTSV_3 FROM DATA_GROUP WHERE DNAME = 'K6T389BE-BEM032AE0' ORDER BY DDATE ASC"
 ```
 
 ```bash
-pnpm start "SELECT DNAME FROM DATA_GROUP"
+pnpm start "SELECT DDATE, DNAME, DTSV_1, DTSV_2, DTSV_3, STSV_1, STSV_2, STSV_3 FROM DATA_GROUP d INNER JOIN STANDARDS_GROUP s ON (s.SSPECTRAL_ID1=d.DSTANDARD_ID1 AND s.SSPECTRAL_ID2=d.DSTANDARD_ID2 and s.SSPECTRAL_ID3=d.DSTANDARD_ID3)"
 ```
 
 ### 3. Contoh Query Lainnya
 
-**Mengambil semua data:**
-```bash
-pnpm start "SELECT * FROM DATA_GROUP"
-```
-
 **Mengambil data dengan filter:**
 ```bash
-pnpm start "SELECT * FROM DATA_GROUP WHERE NAMA LIKE '%test%'"
+pnpm start "SELECT DNAME, DDATE FROM DATA_GROUP WHERE DNAME LIKE '%BEM%'"
 ```
 
 **Mengambil data dengan limit:**
 ```bash
-pnpm start "SELECT TOP 5 * FROM DATA_GROUP ORDER BY ID"
+pnpm start "SELECT TOP 5 DDATE, DNAME, DTSV_1 FROM DATA_GROUP ORDER BY DDATE DESC"
+```
+
+**Count data:**
+```bash
+pnpm start "SELECT COUNT(*) FROM DATA_GROUP"
 ```
 
  
