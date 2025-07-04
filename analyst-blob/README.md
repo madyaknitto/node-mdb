@@ -18,7 +18,7 @@ Mengekstrak data, termasuk kolom `BLOB` yang kompleks, dari database Microsoft A
     ```bash
     pnpm start:ps
     ```
-2.  **ISI**: Command untuk cek isi hexadecimal apakah berpola
+2.  **Isi Hexadecimal**: Command untuk cek hexadecimal
     ```bash
     pnpm start:hex
     ```
