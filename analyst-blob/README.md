@@ -1,7 +1,7 @@
 # Konektor Node.js -> MDB via PowerShell
 
 ## 🎯 **Fokus Utama**
-Mengekstrak data, termasuk kolom `BLOB` yang kompleks, dari database Microsoft Access (.mdb) menggunakan Node.js sebagai *orchestrator* dan PowerShell sebagai *executor* untuk akses blob karena dari lib node tidak support.
+Mengekstrak data, termasuk kolom `BLOB` yang kompleks, dari database Microsoft Access (.mdb) menggunakan Node.js sebagai *orchestrator* dan PowerShell sebagai *executor*.
 
 ## 🏗️ **Arsitektur**
 - **Orchestrator**: Node.js (`analyst-blob/blob.js`)
