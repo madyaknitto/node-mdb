@@ -1,0 +1,88 @@
+=== RECORD 1 ===
+[Kolom: APPROVED_FORM] Approved | F0001 | 0ZkOAzm: | TEST-IT-HR | Remazol Red RR 01||0000 | 0ZlxH>Kc||6FF76400 | Remazol Blue RR||0000 | 0ZlxH>Ke||90EDDD5B | Remazol Yellow RR||0000 | 0ZlxH?;0||A353B4B3 | OR-2 | 0ZkOAzm: | Remazol Red RR 01||0000 | 0ZlxH>Kc||6FF76400 | Remazol Yellow RR||0000 | 0ZlxH?;0||A353B4B3 | Remazol Brilliant Blue BB 133%||0000 | 0Zn2K>;I||F7A974E4 | OR-3 | 0ZkOAzm: | Remazol Red RR 01||0000 | 0ZlxH>Kc||6FF76400 | Remazol Blue SAM 02||0000 | 0Zn2K>Lc||9AF0057E | Remazol Ultra Yellow RGBN||0000 | 0Zn2K[12||FDF91F07 | OR-4 | 0ZkOAzm: | Remazol Red RR 01||0000 | 0||0000000E | Remazol Blue RR||0000 | 0||00000001 | Remazol Yellow RR||0000 | 0||143EA638
+[Kolom: ALTERNATE_FORM1] Alternate 1 | TEST-1 | 0ZkOAzm: | Remazol Red RR 01||0000 | 0ZlxH>Kc||6FF76400 | Remazol Blue RR||0000 | 0ZlxH>Ke||90EDDD5B | Remazol Yellow RR||0000 | 0ZlxH?;0||A353B4B3
+
+=== RECORD 2 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM3] Alternate 3 | F0027 | 0ZlcAlPM | Avitera Brilliant Yellow SE||0000 | 0ZlwHYm0||9E35EBBC | Novacron Super Black R||0000 | 0Zm6JO?b||12131EA6 | Novacron Super Black G||0000 | 0Zn2Hc30||9067B8D8
+
+=== RECORD 3 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM3] Alternate 3 | F0005 | 0\X2F[g5 | C24-Sinarcion Red SKB||0000 | 0ZnAO<ob||53446A66 | Bagazol Black B 133%||0000 | 0ZpgHLMI||592B2F85
+
+=== RECORD 4 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM1] Alternate 1
+[Kolom: ALTERNATE_FORM2] Alternate 2
+[Kolom: ALTERNATE_FORM3] Alternate 3 | -0007 | 0\X2F[g5 | C24-Sinarcion Navy SKF||0000 | 0ZnAO;>I||05B74911 | C24-Sinarcion Red SKB||0000 | 0ZnAO<ob||53446A66 | C24-Sinarcion Yellow SKR||0000 | 0ZnAO;YI||1849CD73
+
+=== RECORD 5 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM3] Alternate 3 | F0004 | 0ZlcAlPM | Avitera Rose SE||0000 | 0ZlwHVv0||999FA4AD | Novacron Red S-2G||0000 | 0Zm6JRII||FEB9360C | F0003 | 0ZlcAlPM | Avitera Rose SE||0000 | 0ZlwHVv0||999FA4AD | Novacron Yellow S-3R||0000 | 0Zm6JNl0||DF320A55 | F0002 | 0ZlcAlPM | Avitera Rose SE||0000 | 0ZlwHVv0||999FA4AD | Avitera Gold SE||0000 | 0ZlwHZKI||4E87A57E
+
+=== RECORD 6 ===
+[Kolom: APPROVED_FORM] Approved | Resep X-Rite | 0ZlcAlPM | Black EDN-1||0000 | 0ZkSTum0||19BD7FC9
+[Kolom: ALTERNATE_FORM3] Correction | Resep X-Rite | 0ZlcAlPM | Black EDN-1||0000 | 0ZkSTum0||19BD7FC9
+
+=== RECORD 7 ===
+[Kolom: APPROVED_FORM] Approved | F0001 X-Rite Resep-Wet | 0ZlcAlPM | Black EDN-1||0000 | 0ZkSTum0||19BD7FC9
+[Kolom: ALTERNATE_FORM3] Alternate 3
+
+=== RECORD 8 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM3] Alternate 3 | F0001 | 0ZlcAlPM | 220824_I.B_Sinarcion Yellow SKR||0000 | 0ZlyOx90||798626FB | 220824_IB_Sinarcion Red SKB_DD||0000 | 0ZlzAap0||381BFE2F | Sinarcion Navy Blue SKF-Blue||0000 | 0ZlzAkLb||B6C6F5CD
+
+=== RECORD 9 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM1] Alternate 1
+[Kolom: ALTERNATE_FORM2] Alternate 2
+[Kolom: ALTERNATE_FORM3] Alternate 3 | F0010 | 0\X2F[g5 | C24-Sinarcion Red SKB||0000 | 0ZnAO<ob||53446A66 | C24-Sinarcion Yellow SKR||0000 | 0ZnAO;YI||1849CD73 | C24-Sunfix Blue SSR||0000 | 0ZnAOf>b||862B78C8
+
+=== RECORD 10 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM1] Alternate 1
+[Kolom: ALTERNATE_FORM2] Alternate 2
+[Kolom: ALTERNATE_FORM3] Working | F0001 | 0Zn9Ca_M | C24-Sinarcion Red SKB||0000 | 0ZnAO<ob||53446A66 | C24-Sinarcion Yellow SKR||0000 | 0ZnAO;YI||1849CD73 | F0001 Pa Emil | 0Zn9Ca_M | C24-Sinarcion Red SKB||0000 | 0ZnAO<ob||53446A66 | C24-Sinarcion Yellow SKR||0000 | 0ZnAO;YI||1849CD73
+
+=== RECORD 11 ===
+[Kolom: APPROVED_FORM] Approved | F0001 | 0ZlcAlPM | 220824_I.B_Sinarcion Yellow SKR||0000 | 0ZlyOx90||798626FB | 220824_IB_Sinarcion Red SKB_DD||0000 | 0ZlzAap0||381BFE2F | Sinarcion Navy Blue SKF-Blue||0000 | 0ZlzAkLb||B6C6F5CD
+
+=== RECORD 12 ===
+[Kolom: APPROVED_FORM] Approved | F0001 | 0ZlcAlPM | 220824_I.B_Sinarcion Yellow SKR||0000 | 0ZlyOx90||798626FB | 220824_IB_Sinarcion Red SKB_DD||0000 | 0ZlzAap0||381BFE2F | Sinarcion Navy Blue SKF-Blue||0000 | 0ZlzAkLb||B6C6F5CD
+
+=== RECORD 13 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM1] Alternate 1
+[Kolom: ALTERNATE_FORM2] Alternate 2
+[Kolom: ALTERNATE_FORM3] Alternate 3 | F0007 | 0\X2F[g5 | C24-Sinarcion Navy SKF||0000 | 0ZnAO;>I||05B74911 | C24-Sinarcion Red SKB||0000 | 0ZnAO<ob||53446A66 | C24-Sinarcion Yellow SKR||0000 | 0ZnAO;YI||1849CD73
+
+=== RECORD 14 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM3] Alternate 3 | OR | 0ZlcAlPM | Sinarcion Red SKB||0000 | 0Zn9R530||8C7EF69E | Sinarcion Yellow SKR||0000 | 0Zn5QXyb||778A857A | Sinarcion Navy SKF||0000 | 0Zn5S\U0||2BBCD372
+
+=== RECORD 15 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM3] Alternate 3 | 0R-X | 0ZlcAlPM | Sinarcion Red SKB||0000 | 0Zn9R530||8C7EF69E | Sinarcion Yellow SKR||0000 | 0Zn5QXyb||778A857A | Sinarcion Navy SKF||0000 | 0Zn5S\U0||2BBCD372
+
+=== RECORD 16 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM3] Alternate 3 | F0002 | 0ZlcAlPM | Avitera Light Red SE||0000 | 0ZlwHUU0||2586F034 | Avitera Gold SE||0000 | 0ZlwHZKI||4E87A57E | Avitera Light Blue SE||0000 | 0ZlwHZhb||2D734605
+
+=== RECORD 17 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM3] Alternate 3 | F0005 | 0ZlcAlPM | C24-Sinarcion Navy SKF||0000 | 0ZnAO;>I||05B74911 | C24-Sinarcion Red SKB||0000 | 0ZnAO<ob||53446A66 | C24-Sinarcion Yellow SKR||0000 | 0ZnAO;YI||1849CD73 | F0003 | 0ZlcAlPM | C24-Sinarcion Navy SKF||0000 | 0ZnAO;>I||05B74911 | C24-Sinarcion Red SKB||0000 | 0ZnAO<ob||53446A66 | C24-Sinarcion Yellow SKR||0000 | 0ZnAO;YI||1849CD73
+
+=== RECORD 18 ===
+[Kolom: APPROVED_FORM] Approved | F0001 | 0ZlcAlPM | 220824_I.B_Sinarcion Yellow SKR||0000 | 0ZlyOx90||798626FB | 220824_IB_Sinarcion Red SKB_DD||0000 | 0ZlzAap0||381BFE2F | Sinarcion Navy Blue SKF-Blue||0000 | 0ZlzAkLb||B6C6F5CD
+
+=== RECORD 19 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM1] Alternate 1
+[Kolom: ALTERNATE_FORM2] Alternate 2
+[Kolom: ALTERNATE_FORM3] Alternate 3 | F0005 | 0\X2F[g5 | C24-Sinarcion Navy SKF||0000 | 0ZnAO;>I||05B74911 | C24-Sinarcion Red SKB||0000 | 0ZnAO<ob||53446A66 | C24-Sinarcion Yellow SKR||0000 | 0ZnAO;YI||1849CD73
+
+=== RECORD 20 ===
+[Kolom: APPROVED_FORM] Approved
+[Kolom: ALTERNATE_FORM1] Alternate 1
+[Kolom: ALTERNATE_FORM2] Alternate 2
+[Kolom: ALTERNATE_FORM3] Alternate 3 | F0006 | 0ZlcAlPM | C24-Sinarcion Navy SKF||0000 | 0ZnAO;>I||05B74911 | C24-Sinarcion Red SKB||0000 | 0ZnAO<ob||53446A66 | C24-Sinarcion Yellow SKR||0000 | 0ZnAO;YI||1849CD73 | F0002 | 0\T;QWSS | C24-Sinarcion Navy SKF||0000 | 0ZnAO;>I||05B74911 | C24-Sinarcion Red SKB||0000 | 0ZnAO<ob||53446A66 | C24-Sinarcion Yellow SKR||0000 | 0ZnAO;YI||1849CD73

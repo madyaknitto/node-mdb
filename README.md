@@ -59,3 +59,6 @@ pnpm start "SELECT COUNT(*) FROM DATA_GROUP"
 ```
 
  
+**📝 Catatan Penting**
+- Limitasi Tipe Data BLOB: Query SELECT pada tabel dengan kolom BLOB tidak dapat dieksekusi. Library node-adodb tidak mendukung tipe data ini. 
+- Solusi Alternatif: Untuk mengaksesnya, gunakan PowerShell Executor, sedangkan untuk driver yang digunakan adalah Microsoft Access Database Engine 2016 x64.

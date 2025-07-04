@@ -1,6 +1,3 @@
-// FILE: index-node-adodb.js
-// Menggunakan library: node-adodb
-
 const ADODB = require('node-adodb');
 
 // --- KONFIGURASI ---

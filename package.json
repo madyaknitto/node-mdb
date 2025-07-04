@@ -4,7 +4,8 @@
   "description": "Aplikasi Node.js untuk membaca database MS Access (.mdb)",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./index.js",
+    "start:ps": "node ./analyst-blob/blob.js"
   },
   "author": "",
   "license": "ISC",
