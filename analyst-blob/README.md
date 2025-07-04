@@ -16,8 +16,7 @@ Mengekstrak data, termasuk kolom `BLOB` yang kompleks, dari database Microsoft A
     - **PENTING**: **Wajib install versi 64-bit (`accessdatabaseengine_X64.exe`)** powershell support.
 
 ## 🚀 **Setup & Eksekusi**
-1.  **Pastikan Driver Terinstall**: Verifikasi driver 64-bit sudah terpasang.
-2.  **Jalankan Skrip**: Buka terminal di root proyek dan jalankan:
+1.  **Jalankan Skrip**: Buka terminal di root proyek dan jalankan:
     ```bash
     pnpm start:ps
     ```
