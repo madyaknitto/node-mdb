@@ -10,8 +10,6 @@ Mengekstrak data, termasuk kolom `BLOB` yang kompleks, dari database Microsoft A
 - **Data Flow**: `MDB -> PowerShell -> JSON (stdout) -> Node.js -> Decode BLOB -> File Output (.json, .txt)`
 
 ## ⚙️ **Dependensi Kunci**
-- **Sistem**: Windows (x64)
-- **Engine**: Node.js v14+
 - **Driver**: [Microsoft Access Database Engine 2016 Redistributable (64-bit)](https://www.microsoft.com/en-us/download/details.aspx?id=54920)
     - **PENTING**: **Wajib install versi 64-bit (`accessdatabaseengine_X64.exe`)** powershell support.
 
