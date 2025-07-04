@@ -13,20 +13,10 @@ Aplikasi Node.js sederhana untuk mengakses database Microsoft Access (.mdb) meng
 1. **Clone atau download project ini**
 2. **Install dependencies:**
    ```bash
-   pnpm install
+   pnpm install node-adodb
    ```
 
-3. **Pastikan struktur folder seperti ini:**
-   ```
-   aplikasi-node-mdb/
-   ├── index.js
-   ├── package.json
-   ├── README.md
-   └── db/
-       └── iControl9.mdb
-   ```
-
-4. **Jika mengalami error "Provider cannot be found", install driver berikut:**
+3. **Jika mengalami error "Provider cannot be found", install driver berikut:**
    - Download: [Microsoft Access Database Engine 2016 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=54920)
    - **Pilih versi 32-bit (`accessdatabaseengine.exe` 77.8 MB)** - untuk versi X64 library tidak bekerja
    - Install driver (restart komputer jika driver tidak bekerja)
