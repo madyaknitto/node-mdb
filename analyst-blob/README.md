@@ -18,6 +18,10 @@ Mengekstrak data, termasuk kolom `BLOB` yang kompleks, dari database Microsoft A
     ```bash
     pnpm start:ps
     ```
+2.  **ISI**: Command untuk cek isi hexadecimal apakah berpola
+    ```bash
+    pnpm start:hex
+    ```
 
 ## 📄 **Struktur Output**
 Skrip akan menghasilkan dua file di dalam folder `analyst-blob/` dengan *timestamp*:
